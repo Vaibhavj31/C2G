@@ -5,9 +5,9 @@
  
 ## Progress Summary
 - **Status:** 🟡 In Progress
-- **Submitted Questions:** 1 / 4
-- **Total Score:** 4 / 22 points
-- **Last Updated:** 6/15/2026, 12:46:55 PM (IST)
+- **Submitted Questions:** 2 / 4
+- **Total Score:** 8 / 22 points
+- **Last Updated:** 6/15/2026, 12:49:02 PM (IST)
  
 ---
  
@@ -15,7 +15,7 @@
 | # | Question Title | Difficulty | Score | Status | Code Link |
 |---|----------------|------------|-------|--------|-----------|
 | 1 | Question 1 | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%201/question.java) |
-| 2 | Question 2 | easy | - / 4 | 🔴 Pending | - |
+| 2 | Question 2 | easy | 4 / 4 | 🟢 Passed | [View Code](./Question%202/question.java) |
 | 3 | Question 3 | easy | - / 4 | 🔴 Pending | - |
 | 4 | Question 4 | easy | - / 10 | 🔴 Pending | - |
 
@@ -27,6 +27,11 @@
 - **Score:** 4 / 4 points
 - **Visible Test Cases:** 2 / 2 passed
 - **Hidden Test Cases:** 1 / 1 passed
+
+### Question 2: Question 2
+- **Score:** 4 / 4 points
+- **Visible Test Cases:** 2 / 2 passed
+- **Hidden Test Cases:** 2 / 2 passed
 
 
 *Generated automatically by Code-to-Grade (C2G) Assessment Platform.*
