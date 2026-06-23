@@ -2,9 +2,9 @@
 
 ## Category Summary
 - **Status:** 🟡 In Progress
-- **Solved Questions:** 1 / 32
-- **Category Score:** 1 / 32 points
-- **Last Updated:** 6/23/2026, 10:58:30 PM (IST)
+- **Solved Questions:** 2 / 32
+- **Category Score:** 2 / 32 points
+- **Last Updated:** 6/23/2026, 11:06:28 PM (IST)
 
 ---
 
@@ -15,7 +15,7 @@
 | 2 | Binary Tree Inorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 3 | Binary Tree Preorder Traversal | EASY | - / 1 | 🔴 Pending | - | - |
 | 4 | Climbing Stairs | EASY | 1 / 1 | 🟢 Passed | [View Solution](./climbing-stairs/Main.java) | [View Report](./climbing-stairs/README.md) |
-| 5 | Contains Duplicate | EASY | - / 1 | 🔴 Pending | - | - |
+| 5 | Contains Duplicate | EASY | 1 / 1 | 🟢 Passed | [View Solution](./contains-duplicate/Main.java) | [View Report](./contains-duplicate/README.md) |
 | 6 | Defanging an IP Address | EASY | - / 1 | 🔴 Pending | - | - |
 | 7 | Factorial of N | EASY | - / 1 | 🔴 Pending | - | - |
 | 8 | Fibonacci Number | EASY | - / 1 | 🔴 Pending | - | - |
